@@ -55,7 +55,7 @@ No hay problema, también contamos con un grupo encargado de enseñarte lo bási
 
 ### [](#header-3)¿No sabes programar?
 
-Programar es solo una de mil tareas diferentes que existen en cada proyecto, así que todo depende de lo que consideres que puedes aportar a la comunidad. Estudias derecho, contabilidad, marketing, gestión, finanzas, sabes cocinar, eres un artista o te gusta diseñar... cualquier tipo de ayuda siempre se bienvenida y pondremos todo de nuestra parte por encontrar juntos algo en lo que puedas contribuir al mundo del software libre.
+Programar es solo una de mil tareas diferentes que existen en cada proyecto, así que todo depende de lo que consideres que puedes aportar a la comunidad. Estudias derecho, contabilidad, marketing, gestión, finanzas, sabes cocinar, eres un artista o te gusta diseñar... cualquier tipo de ayuda siempre es bienvenida y pondremos todo de nuestra parte por encontrar juntos algo en lo que puedas contribuir al mundo del software libre.
 
 ### [](#header-3)¿Sabes inglés?
 
