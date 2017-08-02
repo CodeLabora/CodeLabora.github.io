@@ -70,7 +70,7 @@ Programar es solo una de mil tareas diferentes que existen en cada proyecto, as�
 Para poder prepararte en tu proceso de aprendizaje, primero debemos conocerte y compartir experiencias.
 Esto lo vamos a lograr con [nuestros proyectos](https://github.com/orgs/CodeLabora/projects).
 
-Aquí podras conocer gente que comparta tus intereses, podrás aprender de la mano de tus compañeros y podrás ayudar a nuestra comunidad a ser cada vez más grande. Pero, ¿ y si no hay un proyecto que se acomode a tus intereses? ¡Puedes crearlo! Solo [contactanos](https://github.com/issues) y veremos la forma de empezar a trabajar juntos. **Recuerda que:** para poder crear un proyecto necesitamos tener claros los siguientes datos:
+Aquí podras conocer gente que comparta tus intereses, podrás aprender de la mano de tus compañeros y podrás ayudar a nuestra comunidad a ser cada vez más grande. Pero, ¿ y si no hay un proyecto que se acomode a tus intereses? ¡Puedes crearlo! Solo [contáctanos](https://github.com/issues) y veremos la forma de empezar a trabajar juntos. **Recuerda que:** para poder crear un proyecto necesitamos tener claros los siguientes datos:
 
 * _¿Existe actualmente algún proyecto open source o de software libre que lo esté desarrollando?_
 
@@ -78,7 +78,7 @@ Aquí podras conocer gente que comparta tus intereses, podrás aprender de la ma
 
 * _¿Estás dispuesto a sacar el proyecto adelante a capa y espada?_
 
- Algunas veces empezar a colaborar a una comunidad puede ser intimidante o incluso frustrante, pero necesitamos tu compromiso como _lider_ del proyecto para que puedas apoyar a tus compañeros a seguir intentando y creciendo.
+ Algunas veces empezar a colaborar a una comunidad puede ser intimidante o incluso frustrante, pero necesitamos tu compromiso como _líder_ del proyecto para que puedas apoyar a tus compañeros a seguir intentando y creciendo.
 
 
 ### [](#header-3)Proyectos globales
