@@ -35,7 +35,7 @@ CodaLabora pretende ser un punto medio entre todas los proyectos open source y d
 
 ### [](#header-3)¿Quieres aprender algún lenguaje de programación?
 
-En nuestra comunidad consideramos que la primera barrera que existe al momento de participar en un proyecto de esta naturaleza es el lenguaje de programación. Necesitas aprender el lenguaje que ellos hablan para poder ayudarlos, con tal fin formamos grupos de aprendizaje con la gentil ayuda de [muchos proyectos](proyectos) para poder cubrir los conceptos básicos y así podrás comenzar a practicar y aprender por tu cuenta.
+En nuestra comunidad consideramos que la primera barrera que existe al momento de participar en un proyecto de esta naturaleza es el lenguaje de programación. Necesitas aprender el lenguaje que ellos hablan para poder ayudarlos, con tal fin formamos grupos de aprendizaje con la gentil ayuda de [muchos proyectos](./proyectos) para poder cubrir los conceptos básicos y así podrás comenzar a practicar y aprender por tu cuenta.
 
 ### [](#header-3)¿Ya sabes programar?
 
