@@ -27,7 +27,7 @@ CodaLabora pretende ser un punto medio entre todas los proyectos open source y d
 
 * **Respetamos** las experiencias e impresiones de cada miembro y proyecto siempre que no rompan con nuestros valores.
 
-***
+* * *
 
 ## [](#header-2)¿Quieres participar?
 
@@ -61,7 +61,31 @@ Programar es solo una de mil tareas diferentes que existen en cada proyecto, as�
 
 ¡Tu conocimiento puede que marcar la diferencia! Incluso aunque no lo domines al 100%, siempre puedes practicar tu inglés con nosotros. Como es de esperar muchas comunidades a nivel mundial solo mantienen sus sitios web o información en inglés. Si te gustaría ayudar a traducirlos y en el camino conocer mucha gente de todas partes del mundo, ¡no dudes en contactarnos!
 
-***
+* * *
+
+## [](#header-2)¿Cómo funciona?
+
+### [](#header-3)Nuestros proyectos
+
+Para poder prepararte en tu proceso de aprendizaje, primero debemos conocerte y compartir experiencias.
+Esto lo vamos a lograr con [nuestros proyectos](https://github.com/orgs/CodeLabora/projects).
+
+Aquí podras conocer gente que comparta tus intereses, podrás aprender de la mano de tus compañeros y podrás ayudar a nuestra comunidad a ser cada vez más grande. Pero, ¿ y si no hay un proyecto que se acomode a tus intereses? ¡Puedes crearlo! Solo [contactanos](https://github.com/issues) y veremos la forma de empezar a trabajar juntos. **Recuerda que:** para poder crear un proyecto necesitamos tener claros los siguientes datos:
+
+* _¿Existe actualmente algún proyecto open source o de software libre que lo esté desarrollando?_
+
+ Esto es muy importante porque nuestra misión es integrarte a un ambiente global, eso no descarta iniciativas, pero ten en cuenta que si estás aprendiendo lo mejor sería que puedas colaborar a un grupo más grande para que puedas aprender de ellos y con ellos.
+
+* _¿Estás dispuesto a sacar el proyecto adelante a capa y espada?_
+
+ Algunas veces empezar a colaborar a una comunidad puede ser intimidante o incluso frustrante, pero necesitamos tu compromiso como _lider_ del proyecto para que puedas apoyar a tus compañeros a seguir intentando y creciendo.
+
+
+### [](#header-3)Proyectos globales
+
+Los [proyectos globales](proyectos), como lo indica su nombre, son aquellos en los que estamos alegres de poder colaborar. La única regla para empezar a participar en uno de estos es **utilizar** el programa. Nadie puede mejorar lo que no conoce y solo con el uso diario vas a poder descubrir los pequeños defectos y/o proponer mejoras para ti y ¡todos los demás usuarios del mundo!
+
+* * *
 
 Wellcome to CodeLabora!
 
