@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# [](#header-1) Proyectos a los que estamos felices de apoyar
-## [](#header-2)(Hemos mantenido un orden alfabético sin contar las palabes The al principio)
+# [](#header-1) Nos encontramos felices de poder apoyar a los siguientes proyectos 
+## [](#header-2)(Hemos mantenido un orden alfabético)
 
 <p align="center">
 <img style="height:200px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png">
@@ -61,7 +61,7 @@ MetaBrainz es una fundación sin ánimo de lucro que cree en el libre acceso a l
   - [Python Piura](https://metabrainz.org/)
   - [Python Argentina](http://www.python.org.ar/)
 
-Python es un lenguaje de programación empleado a nivel mundial, con la ayuda de  [**Manuel Kaufmann**](https://elblogdehumitos.com/pages/quien-escribe/), emabajador de Python en toda Latino America, y **Miguel Amaya**, nuestro contacto con Python Piura y su [blog](http://pythonpiura.org/blog) esperamos poder compartir experiencias y contacto para aprender y enseñar cómo programar a mucha gente.
+Python es un lenguaje de programación empleado a nivel mundial, con la ayuda de  [**Manuel Kaufmann**](https://elblogdehumitos.com/pages/quien-escribe/), emabajador de Python en toda Latino America, y **Miguel Amaya**, nuestro contacto con Python Piura y su [blog](http://pythonpiura.org/blog), esperamos poder compartir experiencias, aprender y enseñar a programar a muchas personas.
 
 * * *
 
