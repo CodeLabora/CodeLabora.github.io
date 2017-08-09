@@ -1,8 +1,39 @@
 ---
 layout: default
 ---
-# [](#header-1) Nos encontramos felices de poder apoyar a los siguientes proyectos 
+# [](#header-1) Nos encontramos felices de poder apoyar a los siguientes proyectos
 ## [](#header-2)(Hemos mantenido un orden alfabético)
+
+<p align="center">
+<img style="height:200px" src="https://www.wpoven.com/blog//wp-content/uploads/2016/12/drupal_logo.png">
+</p>
+
+- [Drupal](https://www.drupal.org/)
+  - [Drupal Perú](http://www.drupalperu.org/)
+
+Drupal es un sistema de gestión de contenidos o CMS.Es un programa libre, con licencia GNU/GPL, escrito en PHP, combinable con MySQL, desarrollado y mantenido por una activa comunidad de usuarios. Destaca por la calidad de su código y de las páginas generadas, el respeto de los estándares de la web, y un énfasis especial en la usabilidad y consistencia de todo el sistema.
+
+* * *
+
+<p align="center">
+<img style="height:200px" src="https://images.techhive.com/images/article/2014/11/fedora-logo-100528469-large.jpg">
+</p>
+
+- [Fedora](https://getfedora.org/)
+
+Fedora es una distribución Linux para propósitos generales basada en RPM, que se caracteriza por ser un sistema estable, la cual es mantenida gracias a una comunidad internacional de ingenieros, diseñadores gráficos y usuarios que informan de fallos y prueban nuevas tecnologías. Cuenta con el respaldo y la promoción de [Red Hat](https://www.redhat.com/es).
+
+* * *
+
+<p align="center">
+<img style="height:200px" src="https://www.gentoo.org/assets/img/logo/gentoo-horizontal.png">
+</p>
+
+- [Gentoo](https://www.gentoo.org/)
+
+Gentoo Linux es la causa y origen de CodeLabora, puesto que su fundador ha recibido gran parte de inspiración en esta comunidad global que se caracteriza por un trabajo serio y de calidad. CodeLabora toma prestados algunos de sus documentos para poder establecer las pautas y normas que rigen a los miembros. La mayor de las gratitudes a esta meta-distribución que ha sido responsable de tanto aprendizaje. 
+
+* * *
 
 <p align="center">
 <img style="height:200px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png">
@@ -78,5 +109,3 @@ Weechat es un cliente de chat para conectarse a diferentes medios de comunicaci�
 # [](#header-1)¿Todavía no estás en nuestra lista?
 
 Es muy sencillo, puedes [contactarnos](https://github.com/CodeLabora/codelabora.github.io/issues) con tu proyecto o comunidad y así empezar a expandirnos por toda América.
-
-
