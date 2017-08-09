@@ -9,9 +9,9 @@ Somos una comunidad peruana que busca ayudar a jóvenes desarrolladores a involu
 
 ## [](#header-2)Nuestra misión:
 
-¡Ayudanos a traer el open source y el software libre a América Latina!
+¡Ayúdanos a traer el open source y el software libre a América Latina!
 
-Nuestro objetivo es poder acertar grandes proyectos de todo el mundo con comunidades dispersas en América Latina, haciendo que jóvenes puedan entrar en contacto con un ecosistema vibrante de desarrollo y acción mientras aprenden a trabajar con desarrolladores de talla global.
+Nuestro objetivo es poder acercar grandes proyectos de todo el mundo con comunidades dispersas en América Latina, haciendo que jóvenes puedan entrar en contacto con un ecosistema vibrante de desarrollo y acción mientras aprenden a trabajar con desarrolladores de talla global.
 
 ## [](#header-2)Nuestra visión:
 
@@ -59,7 +59,7 @@ Programar es solo una de mil tareas diferentes que existen en cada proyecto, as�
 
 ### [](#header-3)¿Sabes inglés?
 
-¡Tu conocimiento puede que marcar la diferencia! Incluso aunque no lo domines al 100%, siempre puedes practicar tu inglés con nosotros. Como es de esperar muchas comunidades a nivel mundial solo mantienen sus sitios web o información en inglés. Si te gustaría ayudar a traducirlos y en el camino conocer mucha gente de todas partes del mundo, ¡no dudes en contactarnos!
+¡Tu conocimiento puede marcar la diferencia! Incluso aunque no lo domines al 100%, siempre puedes practicar tu inglés con nosotros. Como es de esperar muchas comunidades a nivel mundial solo mantienen sus sitios web o información en inglés. Si te gustaría ayudar a traducirlos y en el camino conocer mucha gente de todas partes del mundo, ¡no dudes en contactarnos!
 
 * * *
 
@@ -85,10 +85,3 @@ Aquí podras conocer gente que comparta tus intereses, podrás aprender de la ma
 
 Los [proyectos globales](proyectos), como lo indica su nombre, son aquellos en los que estamos alegres de poder colaborar. La única regla para empezar a participar en uno de estos es **utilizar** el programa. Nadie puede mejorar lo que no conoce y solo con el uso diario vas a poder descubrir los pequeños defectos y/o proponer mejoras para ti y ¡todos los demás usuarios del mundo!
 
-* * *
-
-Wellcome to CodeLabora!
-
-We are a peruvian community that aims to help young developers to get involved with open source projects around the world. If you want to contribute or you have a open source project we can contribute with, please just let us know via email or issue. 
-
-Help us to bring open source to Latin America!
