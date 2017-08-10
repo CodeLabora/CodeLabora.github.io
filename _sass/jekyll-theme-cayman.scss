@@ -42,7 +42,7 @@ body {
   @include large {
     margin-top: 67px;
   }
-  @@include medium {
+  @include medium {
     margin-top: 56px;
   }
   @include small {
