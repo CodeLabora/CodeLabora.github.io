@@ -1,3 +1,4 @@
+<span itemscope itemtype="http://schema.org/LocalBusiness">
 <div class="header clearfix">
     <nav class="navbar navbar-toggleable-md navbar-inverse fixed-top navbar-propio">
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -7,7 +8,7 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item {{%if page.url == "/"}}active{{%endif}}"">
-            <a class="nav-link " href="{{"/"}}">Inicio </a>
+            <a itemprop="url" class="nav-link " href="{{"/"}}">Inicio </a>
           </li>
           <li class="nav-item {{%if page.url == "/nosotros"}}active{{%endif}}">
             <a class="nav-link " href="{{"/nosotros"}}">Nosotros </a>

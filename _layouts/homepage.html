@@ -9,8 +9,8 @@
 
     {%if page.url == "/" %}
     <section class="page-header">
-      <img class="project-logo" src="{{ '/assets/img/logo.png' }}"></img>
-      <h1 class="project-name">{{ site.title }}</h1>
+      <img   itemprop="image" class="project-logo" src="{{ '/assets/img/logo.png' }}"></img>
+      <h1   itemprop="name" class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
     </section>
     {%endif%}
