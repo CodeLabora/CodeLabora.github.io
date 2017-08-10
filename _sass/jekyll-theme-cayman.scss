@@ -34,11 +34,20 @@
 body {
   padding: 0;
   margin: 0;
-  margin-top: 67px;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+
+  @include large {
+    margin-top: 67px;
+  }
+  @@include medium {
+    margin-top: 60px;
+  }
+  @include small {
+    margin-top: 50px;
+  }
 }
 
 a {
