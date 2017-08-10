@@ -2,4 +2,5 @@ title: CodeLabora
 description: CodeLabora es una comunidad que busca poner en contacto a jóvenes con proyectos open source y de software libre a nivel mundial
 show_downloads: false
 google_analytics:
+timezone: America/Lima
 theme: jekyll-theme-cayman
