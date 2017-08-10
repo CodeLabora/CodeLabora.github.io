@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: homepage
 ---
 # [](#header-1) Nos encontramos felices de poder apoyar a los siguientes proyectos
 ## [](#header-2)(Hemos mantenido un orden alfabético)
@@ -31,7 +31,7 @@ Fedora es una distribución Linux para propósitos generales basada en RPM, que 
 
 - [Gentoo](https://www.gentoo.org/)
 
-Gentoo Linux es la causa y origen de CodeLabora, puesto que su fundador ha recibido gran parte de inspiración en esta comunidad global que se caracteriza por un trabajo serio y de calidad. CodeLabora toma prestados algunos de sus documentos para poder establecer las pautas y normas que rigen a los miembros. La mayor de las gratitudes a esta meta-distribución que ha sido responsable de tanto aprendizaje. 
+Gentoo Linux es la causa y origen de CodeLabora, puesto que su fundador ha recibido gran parte de inspiración en esta comunidad global que se caracteriza por un trabajo serio y de calidad. CodeLabora toma prestados algunos de sus documentos para poder establecer las pautas y normas que rigen a los miembros. La mayor de las gratitudes a esta meta-distribución que ha sido responsable de tanto aprendizaje.
 
 * * *
 
