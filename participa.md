@@ -23,7 +23,7 @@ No hay problema, también contamos con un grupo encargado de enseñarte lo bási
 
 ## [](#header-2)¿Te gustaría conocer gente con quien compartir tu hobby?
 
-¡A nosotros también! Es por eso que buscamos juntar cada persona y proyecto de América Latina! Quién sabe, tal vez en un tiempo tengamos que actualizar esto y poner todo el _mundo_ :)
+¡A nosotros también! Es por eso que buscamos juntar cada persona y proyecto de América Latina! Quién sabe, tal vez en un tiempo tengamos que actualizar esto y poner todo el _mundo_ 
 
 ## [](#header-2)¿No sabes programar?
 

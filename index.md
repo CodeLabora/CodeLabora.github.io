@@ -3,10 +3,10 @@ layout: homepage
 ---
 ## [](#header-1)¿Cómo funciona?
 
-Existen cientos de programas open source y de software libre en el mundo. Si tu ya has usado uno entonces ya empezaste a participar :)
+Existen cientos de programas open source y de software libre en el mundo. Si tu ya has usado uno entonces ya empezaste a participar 
 La idea principal es poder colaborar con las comunidades que desarrollan ese programa que ya usas, en el proceso aprenderás cómo
 trabajar con ellos, sus formas, procedimientos, experiencias. Una vez que estés lleno de todo este conocimiento podrás comenzar tus
-propios proyectos o mejorar aquel software que tanto has utilizado en el proceso :)
+propios proyectos o mejorar aquel software que tanto has utilizado en el proceso 
 
 ### [](#header-2)Nuestros proyectos
 
@@ -17,7 +17,7 @@ Aquí podras conocer gente que comparta tus intereses, podrás aprender de la ma
 
 * _¿Existe actualmente algún proyecto open source o de software libre que lo esté desarrollando?_
 
- Esto es muy importante porque nuestra misión es integrarte a un ambiente global, eso no descarta iniciativas, pero ten en cuenta que si estás aprendiendo lo mejor sería que puedas colaborar a un grupo más grande para que puedas aprender de ellos y con ellos.
+ Esto es muy importante porque nuestra misión es integrarte a un ambiente global, eso no descarta iniciativas, pero ten en cuenta que si estás aprendiendo, lo mejor sería que puedas colaborar a un grupo más grande para que puedas aprender de ellos y con ellos.
 
 * _¿Estás dispuesto a sacar el proyecto adelante a capa y espada?_
 
